@@ -7,5 +7,5 @@ document.getElementById('doYouLikeMeBtn').addEventListener('click', function() {
 });
 
 document.getElementById('yesBtn').addEventListener('click', function() {
-    window.location.href = 'https://wa.me/6281313293689?text=akujugamenyukaimu💞💞'; // Ganti 'nomor_anda' dengan nomor WhatsApp Anda, misal '6281234567890'
+    window.location.href = 'https://wa.me/6281313293689?text=aku%20juga%20menyukaimu💞💞'; // Ganti 'nomor_anda' dengan nomor WhatsApp Anda, misal '6281234567890'
 });
